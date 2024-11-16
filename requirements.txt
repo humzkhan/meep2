@@ -1,0 +1,6 @@
+pymeep
+pymeep-extras
+numpy
+matplotlib
+scipy
+h5py
